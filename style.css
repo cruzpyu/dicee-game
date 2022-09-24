@@ -80,7 +80,7 @@ body,
 
 @media (min-width: 425px) {
     .header__h1 {
-        font-size: 2.5rem;
+        font-size: 2.7rem;
     }
     .dice {
         height: 200px;
@@ -90,7 +90,7 @@ body,
         width: 130px;
     }
     .credits {
-        margin-top: 3%;
+        margin-top: 6%;
     }
 }
 
